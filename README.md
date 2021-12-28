@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 ![alt text](https://github.com/damianhajduk/damianhajduk/blob/main/Artboard2.jpg?raw=true)
 [![alt text](https://github.com/damianhajduk/damianhajduk/blob/main/Artboard3.jpg?raw=true)](https://www.ispace.cz/)
 [![alt text](https://github.com/damianhajduk/damianhajduk/blob/main/Artboard4.jpg?raw=true)](https://www.isetos.cz/)
-[![alt text](https://github.com/damianhajduk/damianhajduk/blob/main/Artboard5.jpg?raw=true)](https://www.shop.panasonic.cz/)
+[![alt text](https://github.com/damianhajduk/damianhajduk/blob/main/Artboard5.jpg?raw=true)](https://shop.panasonic.cz/)
