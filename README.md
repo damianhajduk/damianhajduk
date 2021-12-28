@@ -1,6 +1,6 @@
+<!--
 ### Hi there 👋
 
-<!--
 **damianhajduk/damianhajduk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![alt text](https://github.com/damianhajduk/damianhajduk/blob/main/Artboard 1.jpg?raw=true)
-![alt text](https://github.com/damianhajduk/damianhajduk/blob/main/Artboard 2.jpg?raw=true)
-![alt text](https://github.com/damianhajduk/damianhajduk/blob/main/Artboard 3.jpg?raw=true)
-![alt text](https://github.com/damianhajduk/damianhajduk/blob/main/Artboard 4.jpg?raw=true)
-![alt text](https://github.com/damianhajduk/damianhajduk/blob/main/Artboard 5.jpg?raw=true)
+![alt text](https://github.com/damianhajduk/damianhajduk/blob/main/Artboard1.jpg?raw=true)
+![alt text](https://github.com/damianhajduk/damianhajduk/blob/main/Artboard2.jpg?raw=true)
+![alt text](https://github.com/damianhajduk/damianhajduk/blob/main/Artboard3.jpg?raw=true)
+![alt text](https://github.com/damianhajduk/damianhajduk/blob/main/Artboard4.jpg?raw=true)
+![alt text](https://github.com/damianhajduk/damianhajduk/blob/main/Artboard5.jpg?raw=true)
