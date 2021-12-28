@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![alt text](https://github.com/damianhajduk/damianhajduk/blob/main/test.png?raw=true)
+![alt text](https://github.com/damianhajduk/damianhajduk/blob/main/Artboard 1.jpg?raw=true)
+![alt text](https://github.com/damianhajduk/damianhajduk/blob/main/Artboard 2.jpg?raw=true)
+![alt text](https://github.com/damianhajduk/damianhajduk/blob/main/Artboard 3.jpg?raw=true)
+![alt text](https://github.com/damianhajduk/damianhajduk/blob/main/Artboard 4.jpg?raw=true)
+![alt text](https://github.com/damianhajduk/damianhajduk/blob/main/Artboard 5.jpg?raw=true)
